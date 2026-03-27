@@ -94,5 +94,5 @@ command lines:
 ----------------
 Reporting issues
 ----------------
-
+Created by Jason Scott Heise
 Bugs/feature requests can be filed via [github](https://github.com/KhronosGroup/SPIR/issues) or [Khronos Bugzilla](https://www.khronos.org/bugzilla/) bug tracker.
